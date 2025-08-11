@@ -1,0 +1,3 @@
+
+This is ecommerce application
+we have product catalog module
